@@ -1,1 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="WG]X}ajYk:CyV=1p7zP!" x="0" y="0"></block><block type="device_forever" id=",eV8qw2__=L*]td(9Dw:" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="sK_[qG,+hw8+y[XC=!)l" x="430" y="-73"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="VGRZ%KChX;P0](kCKgOI"><field name="i">IconNames.SmallHeart</field><next><block type="device_show_leds" id="IKKu+Ouk!^08Cc/yVpjA"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . # # # . 
+        . . # . . 
+        . . . . .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="WG]X}ajYk:CyV=1p7zP!" x="0" y="0"></block><block type="device_forever" id=",eV8qw2__=L*]td(9Dw:" x="205" y="0"></block><block type="device_button_event" id="-C-0u|K@Qw8yJLD,c!A:" x="31" y="140"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id="i8^P]OaCau`k(AUfV[*?"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="tP27@pnPt^S@#}-]CE5b"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field></block></next></block></statement></block></xml>
